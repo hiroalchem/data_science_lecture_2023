@@ -1,1 +1,1 @@
-# data_science_lecture_2022
+# data_science_lecture_2023
